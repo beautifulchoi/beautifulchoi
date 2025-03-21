@@ -15,8 +15,9 @@
 
 ## 🧰 Tech Stack
 - 💻 Programming: `Python`, `Java`, `Dart`, `C++`, `JavaScript`
-- 🧪 ML/DL: `PyTorch`, `HuggingFace`, `Lightning`
+- 🤖 ML/DL: `PyTorch`, `HuggingFace`, `Lightning`
 - 📱 App Dev: `Flutter`, `JNI`
-- 🌐 Others: `Git`, `Linux`, `VScode`, `Visual Studio`, `Andriod Studio`...
+- 🧱 Other Frameworks : `React`, `FastAPI`, `Django`
+- 🛠️ Tools: `Git`, `Linux`, `AWS EC2`, `Firebase`, `Figma`...
 
 ---
