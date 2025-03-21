@@ -12,9 +12,9 @@
 ---
 
 ## 🧰 Tech Stack
-- 💻 Programming: `Python`, `Java`, `Dart`,`C++`
-- 🧪 ML/DL: `PyTorch`
-- 📱 App Dev: `Flutter`
-- 🌐 Others: `Git`, `Linux`...
+- 💻 Programming: `Python`, `Java`, `Dart`, `C++`, `JavaScript`
+- 🧪 ML/DL: `PyTorch`, `HuggingFace`, `Lightning`
+- 📱 App Dev: `Flutter`, `JNI`
+- 🌐 Others: `Git`, `Linux`, `VScode`, `Visual Studio`, `Andriod Studio`...
 
 ---
