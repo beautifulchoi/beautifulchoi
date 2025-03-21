@@ -6,10 +6,10 @@
 ---
 
 ## 🚀 About Me
-🔭 Researching 3D vision at the 3D Vision and Robotics Lab, UNIST, under the supervision of Prof. Kyungdon Joo
-🎓 Visiting student at the University of Toronto through the AI Convergence Program, supported by IITP (Institute for Information & Communications Technology Planning & Evaluation), a Korean government agency
-💼 Collaborating on industrial projects with Samsung Electronics and Modiface
-🛠️ Passionate about bridging academic research and real-world applications
+- 🔭 Researching 3D vision at the 3D Vision and Robotics Lab, UNIST, under the supervision of Prof. Kyungdon Joo
+- 🎓 Visiting student at the University of Toronto through the AI Convergence Program, supported by IITP (Institute for Information & Communications Technology Planning & Evaluation), a Korean government agency
+- 💼 Collaborating on industrial projects with Samsung Electronics and Modiface
+- 🛠️ Passionate about bridging academic research and real-world applications
 
 ---
 
