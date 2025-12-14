@@ -40,26 +40,7 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=beautifulchoi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🧭 Profile Overview
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=beautifulchoi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/beautifulchoi?style=flat-square&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/beautifulchoi?style=flat-square&color=0e75b6" alt="Stars" />
-</p>
-
----
-
-## 🕒 Commit Activity Graph
-
+## 🕒 Commit Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=beautifulchoi&theme=tokyo-night&hide_border=true" />
 </p>
