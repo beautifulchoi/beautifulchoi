@@ -9,40 +9,35 @@
 
 ---
 
-## 🧰 Tech Stack
+### <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My Skills </h2>
 
-### 💡 Proficient
+#### 💡 Proficient
 | **Category** | **Skills** |
-|:-------------:|:-----------|
-| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **ML/DL Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Lightning](https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
-| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Open3D](https://img.shields.io/badge/Open3D-00A6E6?style=flat-square&logoColor=white) |
-| **Dev / Ops Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Monitoring** | ![wandb](https://img.shields.io/badge/wandb-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=white) ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+|:--------------|:-----------|
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white) |
+| **ML/DL Frameworks & Vision Tools** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat&logo=PyTorch&logoColor=white) ![Lightning](https://img.shields.io/badge/Lightning-792EE5.svg?&style=flat&logo=PyTorchLightning&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E.svg?&style=flat&logo=HuggingFace&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat&logo=OpenCV&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?&style=flat&logo=NumPy&logoColor=white) ![Open3D](https://img.shields.io/badge/Open3D-00A6E6.svg?&style=flat&logoColor=white) |
+| **ETC** | ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=Linux&logoColor=black) ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=flat&logo=VisualStudioCode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white) ![wandb](https://img.shields.io/badge/wandb-FFBE00.svg?&style=flat&logo=WeightsAndBiases&logoColor=white) ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white) |
 
 ---
 
-### 🧩 Previously Experienced
-| **Category** | **Skills** |
-|:-------------:|:-----------|
-| **Programming** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Frameworks & Libraries** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Design & Cloud** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+#### 🧩 Previously Experienced
+- **Programming:** ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=OpenJDK&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=C%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=flat&logo=Dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=black)  
+- **Frameworks & Libraries:** ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=flat&logo=FastAPI&logoColor=white)  
+- **ETC:** ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=Figma&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900.svg?&style=flat&logo=AmazonAWS&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=Firebase&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+### <h2> <img src="https://media.tenor.com/LwULtPSWGTwAAAAi/trophy-joypixels.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My GitHub </h2>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeautifulchoi&count_bg=%237F7F7F&title_bg=%23132F57&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beautifulchoi&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beautifulchoi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
----
-
-## 🕒 Commit Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beautifulchoi&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=beautifulchoi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
