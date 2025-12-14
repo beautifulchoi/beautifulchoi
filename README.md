@@ -6,9 +6,9 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Researching 3D vision at the 3D Vision and Robotics Lab, UNIST, under the supervision of Prof. Kyungdon Joo
-- 🏫 Visiting student at the University of Toronto through the AI Convergence Program, supported by IITP (Institute for Information & Communications Technology Planning & Evaluation), a Korean government institution
-- 💼 Collaborating on several industrial projects, one is with Samsung Electronics and the other with Modiface
+- 🧑‍🔬 Researching at the [3D Vision and Robotics Lab, UNIST](https://unist.info), advised by **Prof. Kyungdon Joo**
+- 🏫 Previously visiting scholar at the University of Toronto (AI Excellence Global Innovative Leader Education Program, Funded by Korea Government)
+- 📖 Focusing on visual editing and scene understanding, and currently diving into audio-visual learning
 - 🔥 Passionate about bridging academic research and real-world applications
 
 ---
@@ -21,8 +21,8 @@
 
 ### 🧩 Previously Experienced
 - **Programming:** `Java`, `C++`, `Dart`, `JavaScript`  
-- **Frameworks & Libraries:** `Flutter`, `React`, `Django`, `FastAPI`
-- **Design & Prototyping:** `Figma`
+- **Frameworks & Libraries:** `Flutter`, `React`, `Django`, `FastAPI`...
+- **Design:** `Figma`
 - **Cloud:** `AWS EC2`, `Firebase`
 
 ---
