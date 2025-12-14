@@ -1,7 +1,7 @@
 # 👋 Hello there! I'm Yongjun
 ---
 
-## 🚀 About Me
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="28px" style="vertical-align: middle;"/> About Me
 - 🧑‍🔬 Researching at the [3D Vision and Robotics Lab, UNIST](https://unist.info), advised by **Prof. Kyungdon Joo**
 - 🏫 Previously visiting scholar at the University of Toronto (AI Excellence Global Innovative Leader Education Program, Funded by Korea Government)
 - 📖 Focusing on visual editing and scene understanding, and currently diving into audio-visual learning
