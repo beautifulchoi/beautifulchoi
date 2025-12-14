@@ -1,8 +1,6 @@
 # 👋 Hello there! I'm Yongjun
 
-🎓 Master’s student specializing in **3D Computer Vision**  
-🔍 Passionate about 3D scene understanding, and Video Understanding 
-
+🎓 Master’s student @ AIGS, UNIST
 ---
 
 ## 🚀 About Me
