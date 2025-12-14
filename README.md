@@ -1,6 +1,4 @@
 # 👋 Hello there! I'm Yongjun
-
-🎓 Master’s student @ AIGS, UNIST
 ---
 
 ## 🚀 About Me
