@@ -14,10 +14,15 @@
 ---
 
 ## 🧰 Tech Stack
-- 💻 Programming: `Python`, `Java`, `Dart`, `C++`, `JavaScript`
-- 🤖 ML/DL: `PyTorch`, `HuggingFace`, `Lightning`
-- 📱 App Dev: `Flutter`, `JNI`
-- 🧱 Other Frameworks : `React`, `FastAPI`, `Django`
-- 🛠️ Tools: `Git`, `Linux`, `AWS EC2`, `Firebase`, `Figma`...
+### 💡 Proficient
+- **Programming:** `Python`
+- **ML/DL Frameworks:** `PyTorch`, `Lightning`, `HuggingFace(Transformer, Diffusers ...)`, `Computer Vision Tools(OpenCV, numpy, open3d ...)`
+- **ETC:** `Git`, `Docker`, `Linux`, `Monitoring Tools(wandb, tensorboard ...)`     
+
+### 🧩 Previously Experienced
+- **Programming:** `Java`, `C++`, `Dart`, `JavaScript`  
+- **Frameworks & Libraries:** `Flutter`, `React`, `Django`, `FastAPI`
+- **Design & Prototyping:** `Figma`
+- **Cloud:** `AWS EC2`, `Firebase`
 
 ---
