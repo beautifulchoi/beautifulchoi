@@ -29,15 +29,11 @@
 
 ### <h2> <img src="https://media.tenor.com/LwULtPSWGTwAAAAi/trophy-joypixels.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My GitHub </h2>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeautifulchoi&count_bg=%237F7F7F&title_bg=%23132F57&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beautifulchoi&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beautifulchoi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=beautifulchoi&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
