@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Yongjun
+# 👋 Hello there! I'm Yongjun (for English name, Teo)
 ---
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="28px" style="vertical-align: middle;"/> About Me
